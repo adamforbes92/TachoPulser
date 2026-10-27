@@ -1,4 +1,7 @@
 # TachoPulser
+
+**Get one ready-built:** [Coil Tacho Converter at Forbes Automotive](https://forbes-automotive.com/products/ecu-to-coil-tacho-adapter?utm_source=github&utm_medium=readme&utm_campaign=tachopulser) · 6-cylinder ECU with a 4-cylinder cluster? Use [CAN2RPM](https://forbes-automotive.com/products/can2rpm?utm_source=github&utm_medium=readme&utm_campaign=tachopulser) · [Speedo, tacho & cluster comparison](https://forbes-automotive.com/collections/speedo-tacho-cluster?utm_source=github&utm_medium=readme&utm_campaign=tachopulser).
+
 Hardware for driving OEM coil based tachometers.  Simple circuit using a 2N5551 - a high-voltage NPN transistor to drive a DR125-124 inductor to create a high-voltage 'pulse' that triggers OEM tachometers.  
 
 ![TachoPulser Board](/BoardOverview.png)
